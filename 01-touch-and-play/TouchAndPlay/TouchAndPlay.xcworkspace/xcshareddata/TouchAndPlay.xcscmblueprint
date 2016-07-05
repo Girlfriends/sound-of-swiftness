@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "C981D45555B9ED9945F9143FBCB140C3598D7035",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "92CBA65579F61C75FEC665D01E78C47FFFAA6B01" : 0,
+    "C981D45555B9ED9945F9143FBCB140C3598D7035" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "34740BBC-CD3B-411B-B218-888A07099963",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "92CBA65579F61C75FEC665D01E78C47FFFAA6B01" : "sound-of-swiftness\/AudioKit\/",
+    "C981D45555B9ED9945F9143FBCB140C3598D7035" : "sound-of-swiftness\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "TouchAndPlay",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "01-touch-and-play\/TouchAndPlay\/TouchAndPlay.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/audiokit\/AudioKit.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "92CBA65579F61C75FEC665D01E78C47FFFAA6B01"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:Girlfriends\/sound-of-swiftness.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C981D45555B9ED9945F9143FBCB140C3598D7035"
+    }
+  ]
+}
