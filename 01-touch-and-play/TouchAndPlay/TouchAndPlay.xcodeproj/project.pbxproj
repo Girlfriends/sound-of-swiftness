@@ -14,7 +14,22 @@
 		0860FCDE1D2BBD5C0087DED0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0860FCDC1D2BBD5C0087DED0 /* LaunchScreen.storyboard */; };
 		0860FCF01D2BBDED0087DED0 /* NotePlayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0860FCEF1D2BBDED0087DED0 /* NotePlayer.swift */; };
 		0860FCF51D2BC36D0087DED0 /* AudioKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0860FCF41D2BC36D0087DED0 /* AudioKit.framework */; };
+		0860FCF81D2BC4190087DED0 /* AudioKit.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 0860FCF41D2BC36D0087DED0 /* AudioKit.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 /* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		0860FCF91D2BC4190087DED0 /* Embed Frameworks */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 10;
+			files = (
+				0860FCF81D2BC4190087DED0 /* AudioKit.framework in Embed Frameworks */,
+			);
+			name = "Embed Frameworks";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
 		0860FCD01D2BBD5C0087DED0 /* TouchAndPlay.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TouchAndPlay.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -91,6 +106,7 @@
 				0860FCCC1D2BBD5C0087DED0 /* Sources */,
 				0860FCCD1D2BBD5C0087DED0 /* Frameworks */,
 				0860FCCE1D2BBD5C0087DED0 /* Resources */,
+				0860FCF91D2BC4190087DED0 /* Embed Frameworks */,
 			);
 			buildRules = (
 			);
